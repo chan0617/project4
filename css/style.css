@@ -542,4 +542,9 @@ header {
   font-size: 14px;
   color: #868e96;
   margin: 4px 0;
+  display: contents;
+}
+
+.check {
+  display: inline-block;
 }
